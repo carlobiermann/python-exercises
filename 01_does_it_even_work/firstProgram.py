@@ -7,9 +7,13 @@ def printerfunc():
     return True
 
 printerfunc()
-
-if(printerfunc()):
+if(printerfunc())
     print("Function returned true")
 
 print(printerfunc())
+
+
+
+
+
 
